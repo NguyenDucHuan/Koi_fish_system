@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystemapi\\services\\implement\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|solutionrelative:kpcosystemapi\\services\\implement\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E96699-844D-424B-92BA-942B64C78219}|KPCOSystem.DataAccess\\KPCOSystem.DataAccess.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystem.dataaccess\\repository\\implement\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E96699-844D-424B-92BA-942B64C78219}|KPCOSystem.DataAccess\\KPCOSystem.DataAccess.csproj|solutionrelative:kpcosystem.dataaccess\\repository\\implement\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E96699-844D-424B-92BA-942B64C78219}|KPCOSystem.DataAccess\\KPCOSystem.DataAccess.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystem.dataaccess\\repository\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E96699-844D-424B-92BA-942B64C78219}|KPCOSystem.DataAccess\\KPCOSystem.DataAccess.csproj|solutionrelative:kpcosystem.dataaccess\\repository\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystemapi\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|solutionrelative:kpcosystemapi\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystemapi\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|solutionrelative:kpcosystemapi\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49DE17C-5C0A-4E08-AC36-5CF216761BC6}|Domain\\Domain.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49DE17C-5C0A-4E08-AC36-5CF216761BC6}|Domain\\Domain.csproj|solutionrelative:domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|solutionrelative:kpcosystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49DE17C-5C0A-4E08-AC36-5CF216761BC6}|Domain\\Domain.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\domain\\models\\decorationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49DE17C-5C0A-4E08-AC36-5CF216761BC6}|Domain\\Domain.csproj|solutionrelative:domain\\models\\decorationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|d:\\term6\\kpcosysterm\\kpcosysterm_be - copy (2)\\kpcosystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B1B2951-150B-4159-80FA-38507FB48C37}|KPCOSystemApi\\KPCOSystemApi.csproj|solutionrelative:kpcosystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Constants\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "KPCOSystemApi\\Constants\\MessageConstants.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Constants\\MessageConstants.cs",
+              "RelativeToolTip": "KPCOSystemApi\\Constants\\MessageConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:22:53.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Services\\Implement\\AccountService.cs",
+              "RelativeDocumentMoniker": "KPCOSystemApi\\Services\\Implement\\AccountService.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Services\\Implement\\AccountService.cs",
+              "RelativeToolTip": "KPCOSystemApi\\Services\\Implement\\AccountService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:18:43.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "KPCOSystemApi\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "KPCOSystemApi\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:18:22.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystem.DataAccess\\Repository\\Implement\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "KPCOSystem.DataAccess\\Repository\\Implement\\AccountRepository.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystem.DataAccess\\Repository\\Implement\\AccountRepository.cs",
+              "RelativeToolTip": "KPCOSystem.DataAccess\\Repository\\Implement\\AccountRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAASwEwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:14:44.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystem.DataAccess\\Repository\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "KPCOSystem.DataAccess\\Repository\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystem.DataAccess\\Repository\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "KPCOSystem.DataAccess\\Repository\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:14:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\Domain\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Account.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\Domain\\Models\\Account.cs",
+              "RelativeToolTip": "Domain\\Models\\Account.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:51:37.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecorationType.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\Domain\\Models\\DecorationType.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\DecorationType.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\Domain\\Models\\DecorationType.cs",
+              "RelativeToolTip": "Domain\\Models\\DecorationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:51:34.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Program.cs",
+              "RelativeDocumentMoniker": "KPCOSystemApi\\Program.cs",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\Program.cs",
+              "RelativeToolTip": "KPCOSystemApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:27:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\appsettings.json",
+              "RelativeDocumentMoniker": "KPCOSystemApi\\appsettings.json",
+              "ToolTip": "D:\\TERM6\\KPCOSysterm\\KPCOSysterm_BE - Copy (2)\\KPCOSystemApi\\appsettings.json",
+              "RelativeToolTip": "KPCOSystemApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T08:25:42.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
