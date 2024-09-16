@@ -15,6 +15,8 @@ public partial class OrderItem
 
     public decimal TotalPrice { get; set; }
 
+    public string? Status { get; set; }
+
     public virtual Order Order { get; set; } = null!;
 
     public virtual Pond? Pond { get; set; }
