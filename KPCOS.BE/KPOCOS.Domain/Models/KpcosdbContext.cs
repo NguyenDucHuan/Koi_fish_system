@@ -211,6 +211,7 @@ public partial class KpcosdbContext : DbContext
             entity.Property(e => e.OrderId).HasColumnName("OrderID");
             entity.Property(e => e.PondId).HasColumnName("PondID");
             entity.Property(e => e.ServiceId).HasColumnName("ServiceID");
+            entity.Property(e => e.Status).HasMaxLength(50);
             entity.Property(e => e.TotalPrice).HasColumnType("decimal(10, 2)");
 
             entity.HasOne(d => d.Order).WithMany(p => p.OrderItems)
@@ -237,6 +238,9 @@ public partial class KpcosdbContext : DbContext
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.AccountId).HasColumnName("AccountID");
             entity.Property(e => e.Area).HasColumnType("decimal(10, 2)");
+            entity.Property(e => e.DesignImage)
+                .HasMaxLength(1000)
+                .HasDefaultValueSql("(NULL)");
             entity.Property(e => e.Location).HasMaxLength(255);
             entity.Property(e => e.PondDepth).HasColumnType("decimal(10, 2)");
             entity.Property(e => e.PondName).HasMaxLength(255);

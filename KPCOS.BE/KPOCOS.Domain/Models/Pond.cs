@@ -21,6 +21,8 @@ public partial class Pond
 
     public int AccountId { get; set; }
 
+    public string? DesignImage { get; set; }
+
     public virtual Account Account { get; set; } = null!;
 
     public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
