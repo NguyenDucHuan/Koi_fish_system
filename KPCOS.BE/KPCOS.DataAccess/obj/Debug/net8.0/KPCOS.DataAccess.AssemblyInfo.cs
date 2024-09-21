@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KPCOS.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c8f1d8e57442a08b7999218f2268926f7f647c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d71c9867c0dd0dafa2729f15d5c8644c936240f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KPCOS.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KPCOS.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
