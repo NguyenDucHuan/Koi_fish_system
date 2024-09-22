@@ -13,9 +13,9 @@ namespace KPOCOS.Domain.DTOs.Resquest
     }
     public class LoginResquest
     {
-        [Required]
+        [Required(ErrorMessage = "User Name is required")]
         public string UserName { get; set; } = string.Empty;
-        [Required]
+        [Required(ErrorMessage = "Password is required")]
         public string Password { get; set; } = string.Empty;
     }
 

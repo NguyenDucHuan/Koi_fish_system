@@ -12,8 +12,8 @@ namespace KPCOS.Api.Mappers
             {
                 Id = accountmodel.Id,
                 UserName = accountmodel.UserName,
-                Password = accountmodel.Password,
-                RoleId = accountmodel.RoleId,
+                RoleName = accountmodel.Role.Type,
+                AccessToken = null,
                 Status = accountmodel.Status,
             };
         }

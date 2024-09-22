@@ -12,9 +12,9 @@ namespace KPOCOS.Domain.DTOs.Account
 
         public string UserName { get; set; } = null!;
 
-        public string Password { get; set; } = null!;
+        public string RoleName { get; set; }
 
-        public int RoleId { get; set; }
+        public string AccessToken { get; set; } // Thêm trường này
 
         public bool Status { get; set; }
     }
