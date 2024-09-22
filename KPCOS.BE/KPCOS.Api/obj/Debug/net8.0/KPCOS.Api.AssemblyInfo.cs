@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KPCOS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c8f1d8e57442a08b7999218f2268926f7f647c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d073e02b1018b82b7098c783339254c38c730133")]
 [assembly: System.Reflection.AssemblyProductAttribute("KPCOS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KPCOS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -257,3 +257,13 @@ D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\obj\Debug\net8.0\refint\KPCOS.Api.dl
 D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\obj\Debug\net8.0\KPCOS.Api.pdb
 D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\obj\Debug\net8.0\KPCOS.Api.genruntimeconfig.cache
 D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\obj\Debug\net8.0\ref\KPCOS.Api.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\JsonConverter.Abstractions.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\JsonConverter.Newtonsoft.Json.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Stef.Validation.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TERM6\Koi_fish_system\KPCOS.BE\KPCOS.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
